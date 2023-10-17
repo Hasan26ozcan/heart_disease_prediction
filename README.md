@@ -16,12 +16,12 @@ Now, I'm ready to start writing the prediction model.
 
 Firstly, I created a sigmoid prediction model
 
-here is my sigmoid function prediction rate:
+### here is my sigmoid function prediction rate:
 
 ![a](https://github.com/Hasan26ozcan/heart_disease_prediction/assets/91744709/6239fc5a-79fd-4351-922a-7a834c1a116f)
 
 
-I'm using an SGM model for prediction. 
+### I'm using an SGM model for prediction. 
 First, I need to find the best kernels, and I'm using this code block to do so.
 
 ![a](https://github.com/Hasan26ozcan/heart_disease_prediction/assets/91744709/8785ce28-230f-4598-ac35-bad11844ad23)
