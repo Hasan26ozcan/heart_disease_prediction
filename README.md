@@ -47,7 +47,9 @@ Before I start the evaluation, I need to create the graph for the prediction mod
 This is my prediction model. I can see the best gamma values are 0.035 and 0.065. While the prediction of 0.065 is not bad, the prediction of 0.035 is outstanding. My best gamma value is 0.035, and I want to use a confusion matrix because I want to see all the predictions in one list. If you want to see it in a graph, you can open the code block. Actually, a list is sufficient for me.
 
 ![a](https://github.com/Hasan26ozcan/heart_disease_prediction/assets/91744709/7936c9fe-5541-4852-9899-a537b44eab4a)
+
 Actually, my code block contains a value of 0.065. If you want to see the 0.065 value, you may need to change the print function in the code we wrote.
+
 ![a](https://github.com/Hasan26ozcan/heart_disease_prediction/assets/91744709/0d5df397-848d-43b1-bb5f-001a2f4a2d9f)
 
 
