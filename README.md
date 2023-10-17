@@ -21,6 +21,9 @@ Firstly, I created a sigmoid prediction model
 ![a](https://github.com/Hasan26ozcan/heart_disease_prediction/assets/91744709/6239fc5a-79fd-4351-922a-7a834c1a116f)
 
 
+I cannot put a photo here because this is a model evaluation, and if I add a photo, I might just be adding an epoch for a photo, which may not have any meaning.
+
+
 ### I'm using an SGM model for prediction. 
 First, I need to find the best kernels, and I'm using this code block to do so.
 
