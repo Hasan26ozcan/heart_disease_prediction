@@ -1,7 +1,7 @@
 # heart_disease_prediction
 I tried heart disease prediction with sigmoid and SVM models, and I found that the SVM model was more successful.
 
-![a](https://github.com/Hasan26ozcan/heart_disease_prediction/assets/91744709/e4996707-a144-4143-9a14-45eb945733f3)
+![a](https://github.com/Hasan26ozcan/heart_disease_prediction/assets/91744709/ccf948b9-5b23-4eda-9d2a-0921e6f4fce9)
 
 
 ı'm using the svm and sigmoid fucntion in neural networks and svm model it's good working
